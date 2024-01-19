@@ -74,5 +74,23 @@ Print the coordinates of each step that make up the path Jack traveled as `(leve
 ## File Structure
 - `ship.cpp`: Executable file
 - `launch.json`: Script for debugging
-- `Spec/`: Different input mode files for two maps and correct outputs for all combinations, designed for debugging.
-- `tests/`: Ten tests with different search schemes and input modes.
+- `Spec/`: Different input mode files for three maps and correct outputs for all combinations, designed for debugging.
+  - `Sample-Small-L.txt`
+  - `Sample-Small-Lq-out.txt`
+  - `Sample-Small-Ls-out.txt`
+  - `Sample-Small-M.txt`
+  - `Sample-Small-Mq-out.txt`
+  - `Sample-Small-Ms-out.txt`
+  - `Spec-L.txt`
+  - `Spec-Lq-out.txt`
+  - `Spec-Ls-out.txt`
+  - `Spec-M.txt`
+  - `Spec-Mq-out.txt`
+  - `Spec-Ms-out.txt`
+  - `SpecE-L.txt`
+  - `SpecE-Lq-out.txt`
+  - `SpecE-Ls-out.txt`
+  - `SpecE-Marcus.txt`
+  - `SpecE-Mq-out.txt`
+  - `SpecE-Ms-out.txt`
+- `tests/`: Ten well-designed maps with different search schemes and input modes to expose potential bugs.
