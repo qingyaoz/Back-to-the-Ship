@@ -1,0 +1,12 @@
+M
+2
+3
+// A 2 level 3*3 normal case to test all valid symbols
+// level 0
+..#
+.S.
+E..
+// level 2
+...
+.H.
+E#.

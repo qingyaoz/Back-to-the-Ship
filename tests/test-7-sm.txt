@@ -1,0 +1,18 @@
+M
+3
+4
+// A 3 level 4*4 complicated case
+// level 0
+#H..
+EE..
+.#..
+....
+....
+.ESE
+....
+....
+// level 1
+.#..
+EE#.
+.#..
+....

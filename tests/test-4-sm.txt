@@ -1,0 +1,16 @@
+M
+3
+3
+// A 3 level 3*3 no solution case, no corrsponding elevator
+// level 0
+.SE
+...
+E..
+// level 1
+...
+...
+...
+// level 2
+..H
+...
+#..

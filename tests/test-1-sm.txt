@@ -1,0 +1,10 @@
+M
+2
+2
+//A 2*2 normal case to test all valid symbols
+//level 0
+.H
+SE
+//level 0
+..
+#E

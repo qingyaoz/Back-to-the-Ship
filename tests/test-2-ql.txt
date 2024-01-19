@@ -1,0 +1,6 @@
+L
+3
+3
+// A 3 level 3*3 normal case to test all valid symbols
+(0,1,1,S)
+(1,1,1,H)
