@@ -8,9 +8,7 @@ Jack have just broken out of the detention level of a large and strangely moon-l
 These are the skills and concepts I encountered in this project:
 - 3D Maze: read, store, access, and write
 - Breadth first search with queue
-- Depth first search with stack)
-- Map and coordinate list mode input
-- Map and coordinate list mode output
+- Depth first search with stack
 - Use `getopt_long()` to handle command line arguments
 
 ## Getting Started
